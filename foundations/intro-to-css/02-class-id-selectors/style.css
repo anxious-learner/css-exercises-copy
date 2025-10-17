@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+#dos {
+    color:rgb(32, 32, 233);
+    font-size: 36px;
+}
+
+.odd {
+    background-color:rgb(238, 140, 156);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.twnyfo {
+    font-size: 24px;
+}
+
+
+#cuatro {
+    background-color:rgb(131, 245, 131);
+    
+    font-weight: bold; 
+}
+
+
